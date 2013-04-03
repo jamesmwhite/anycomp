@@ -13,4 +13,11 @@ Deploying to Cloud
 My host of choice is Appfog.com, to deploy anycomp, build a .war using grails the command 'grails war',
 then upload to appfog using their ruby app.
 
+
+
+
+
+
+
+
 See it running at http://jameswhite.ie/musings/?p=92
